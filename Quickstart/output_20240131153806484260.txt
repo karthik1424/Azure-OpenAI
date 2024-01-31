@@ -1,0 +1,30 @@
+--------------------------------------------------------------------
+uc0-askkep-appdev
+gpt35turbo16k_0613
+https://openaiapim-prd-01-weu-002-apim.azure-api.net/askkep/appdev/gpt35turbo16k
+--------------------------------------------------------------------
+Token Generation for appid--------->>>>>>>>>  uc0-askkep-appdev
+eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjVCM25SeHRRN2ppOGVORGMzRnkwNUtmOTdaRSJ9.eyJhdWQiOiIwNzAxOTlkZC0zMGE1LTQ5ZjgtYjBlYy1jOGU1MWJkYTBhMWEiLCJpc3MiOiJodHRwczovL2xvZ2luLm1pY3Jvc29mdG9ubGluZS5jb20vN2M5MTdkYjAtNzFmMi00MzhlLTk1NTQtMzg4ZmZjYWI4NzY0L3YyLjAiLCJpYXQiOjE3MDY3MTUxODgsIm5iZiI6MTcwNjcxNTE4OCwiZXhwIjoxNzA2NzE5MDg4LCJhaW8iOiJBU1FBMi84VkFBQUFjUjhUYUhoeUxNbnQ1YzNlMVIzbUNKU1BPR3JSNGNILzNMejlFaXRGbEIwPSIsImF6cCI6IjA3MDE5OWRkLTMwYTUtNDlmOC1iMGVjLWM4ZTUxYmRhMGExYSIsImF6cGFjciI6IjEiLCJvaWQiOiI4ZjE1MjI1OC0wZjE5LTQ5ZDctYWQ3Zi1kYzNiNGExMWI1ZDUiLCJyaCI6IjAuQVJFQXNIMlJmUEp4amtPVlZEaVBfS3VIWk4yWkFRZWxNUGhKc096STVSdmFDaG9SQUFBLiIsInJvbGVzIjpbIm9wZW5haS5hcHAucmVhZGVyIl0sInN1YiI6IjhmMTUyMjU4LTBmMTktNDlkNy1hZDdmLWRjM2I0YTExYjVkNSIsInRpZCI6IjdjOTE3ZGIwLTcxZjItNDM4ZS05NTU0LTM4OGZmY2FiODc2NCIsInV0aSI6IjRHNWRIc2RzdkUyNGRhNlVEY0cxQUEiLCJ2ZXIiOiIyLjAifQ.D33qyB5DteVzn2BOEM6PzQJldrMLbmGIEx-A6tqZJ5WuVscSh_wMs88xQZenWIRY27UFxKVm4ce5JaB0tkg_SekN_nnSweG48Jw6HyRYsokv4bDXOE2WkKn-ObQWtNnNg_PNpCz-E5MmC4itKF2KCWH4Y4hLA9dwSbF-MH3_s4z72bDxZ0zmBxKuCEtTRe1Vkqmtd2KMHYpGP05m4bGh9DQEOdUCuRSKFsf4Q-rIOqJlZYin3fnl0dbhjRbueH8xniQE009sB1r0fveSJYTA9FBGSEcYKxAxK7sebrK9uUXoABX6TnQ5RZH35iHoGHiNBkTLhQGkYfDQDxB3y7P9Tg
+--------------------------------------------------------------------
+Sending Prompt>>>>Please provide ML models supported by AWS
+
+Recieved Response>>>>AWS offers a wide range of machine learning services and frameworks. Some of the popular ML models supported by AWS are:
+
+1. Amazon SageMaker: A fully-managed service that enables developers to build, train, and deploy machine learning models at scale. It supports various ML models such as linear regression, logistic regression, support vector machines (SVM), decision trees, and deep learning models like convolutional neural networks (CNN) and recurrent neural networks (RNN).
+
+2. Amazon Rekognition: A deep learning-based image and video analysis service. It supports models for object recognition, facial analysis, text in image detection, and celebrity recognition.
+
+3. Amazon Comprehend: A natural language processing (NLP) service that uses deep learning models to analyze text and extract insights. It supports models for sentiment analysis, entity recognition, keyphrase extraction, and language detection.
+
+4. Amazon Transcribe: An automatic speech recognition (ASR) service that converts speech into written text. It supports models for both real-time and batch transcription.
+
+5. Amazon Translate: A neural machine translation service that provides language translation capabilities. It supports models for translating text between different languages.
+
+6. Amazon Forecast: A fully-managed time series forecasting service. It supports models for demand forecasting, inventory planning, and resource optimization.
+
+7. Amazon Personalize: A service for creating personalized recommendations. It supports models for personalized product recommendations, personalized search results, and personalized content recommendations.
+
+8. AWS DeepLens: A deep learning-enabled video camera that integrates with AWS services. It supports models for object detection, facial recognition, and sentiment analysis.
+
+These are just a few examples of the ML models supported by AWS. AWS continues to expand its ML offerings, and new models and services are regularly added.
+--------------------------------------------------------------------
